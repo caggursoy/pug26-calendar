@@ -1,0 +1,11 @@
+title: PuG 2026 Calendar
+description: Add the PUG 2026 conference sessions directly to your Google Calendar.
+theme: cayman
+
+# GitHub Pages settings
+url: "https://caggursoy.github.io"
+baseurl: "/pug26-calendar"
+
+# Optional: link back to the GitHub repo
+github:
+  repository_url: "https://github.com/caggursoy/pug26-calendar"
