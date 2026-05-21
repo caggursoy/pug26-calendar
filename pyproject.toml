@@ -1,0 +1,15 @@
+[project]
+name = "pug26-calendar"
+version = "0.1.0"
+description = "Generate Google Calendar events from the PUG 2026 conference agenda."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+	"beautifulsoup4>=4.12.2",
+	"gcsa>=2.6.0",
+	"requests>=2.31.0",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
